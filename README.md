@@ -6,15 +6,15 @@
   <img src="https://img.shields.io/badge/🚀_ABRIR_LA_APP-En_vivo-6E5BFF?style=for-the-badge" alt="Abrir Encaja Studio en vivo"/>
 </a>
 &nbsp;
-<a href="#-novedades-de-la-versión-41">
-  <img src="https://img.shields.io/badge/versión-4.1-E2479A?style=for-the-badge" alt="Versión 4.0"/>
+<a href="#-novedades-de-la-versión-42">
+  <img src="https://img.shields.io/badge/versión-4.2-E2479A?style=for-the-badge" alt="Versión 4.0"/>
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/código-privado-1D1D1F?style=for-the-badge&logo=github" alt="Código privado"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=A99CFF&center=true&vCenter=true&width=820&lines=Arrastra+piezas.+Suelta.+Ya+tienes+una+app.;33+apps+b%C3%A1sicas%3A+tienda%2C+citas%2C+taxi%2C+banco%2C+delivery%E2%80%A6;Tablero+infinito+con+zoom+como+Google+Stitch;IA+que+dise%C3%B1a+pantallas+completas+por+ti;Exporta+a+HTML%2C+React+Native+y+Flutter" alt="Arrastra piezas. Suelta. Ya tienes una app."/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=A99CFF&center=true&vCenter=true&width=820&lines=Arrastra+piezas.+Suelta.+Ya+tienes+una+app.;Tu+negocio+con+app+propia+en+2+minutos;33+apps+b%C3%A1sicas%3A+tienda%2C+citas%2C+taxi%2C+banco%2C+delivery%E2%80%A6;Tablero+infinito+con+zoom+como+Google+Stitch;IA+que+dise%C3%B1a+pantallas+completas+por+ti;Exporta+a+HTML%2C+React+Native+y+Flutter" alt="Arrastra piezas. Suelta. Ya tienes una app."/>
 
 <br/>
 
@@ -41,6 +41,41 @@ Junta lo mejor de **Google Stitch** (tablero infinito, variantes con IA, flujos 
 | con su nombre técnico | una por tipo de negocio | login, carrito, pago, perfil… | Cupertino, Material, Vidrio, Neón… | con buscador en español |
 
 </div>
+
+## 🪄 Tu app lista en 2 minutos
+
+El **asistente paso a paso** pregunta qué negocio tienes, el nombre, el logo, los colores y tu WhatsApp, y te entrega la app con **tus datos en todas las pantallas**. Si subes tu logo, la app toma sus colores sola.
+
+<p align="center">
+  <img src="./capturas/12-asistente.png" width="96%" alt="Asistente paso a paso: elegir el tipo de negocio entre 33 opciones"/>
+</p>
+
+| Paso | Qué pide |
+|:-:|---|
+| 1 | Tipo de negocio (33 opciones) |
+| 2 | Nombre, logo y colores de marca |
+| 3 | WhatsApp, teléfono, correo, dirección y horario |
+| 4 | Productos o servicios: pega tu lista o **sube tu Excel** |
+
+## 🧾 Herramientas para el día a día
+
+<table>
+<tr>
+<td width="55%"><img src="./capturas/13-agenda.png" alt="Agenda de citas con días, horarios y confirmación"/></td>
+<td>
+
+- 📅 **Agenda con horarios reales:** los clientes eligen día y hora; las horas ocupadas se bloquean y no hay reservas dobles
+- 🔔 **Recordatorios:** un botón para recordar por WhatsApp las citas de mañana, y un archivo de calendario con aviso un día antes
+- 📥 **Importar productos** desde Excel o CSV: se crean el catálogo y el carrito solos, con emoji automático por producto
+- 🏪 **Datos del negocio en un solo lugar:** nombre, logo, WhatsApp, dirección y horario se llenan en todas las piezas
+- 🧾 **Recibos en PDF** de cada pedido
+- 📊 **Panel del dueño:** pedidos, reservas, opiniones, formularios y turnos en tiempo real, con estados y descarga en CSV
+- 🍽️ **Menú del día editable desde el celular,** sin entrar al editor
+- 🖨️ **Cartel con QR** para imprimir en la mesa o la vitrina
+
+</td>
+</tr>
+</table>
 
 ## 📐 El orden de una app, explicado
 
@@ -219,7 +254,16 @@ flowchart LR
 
 Mantén pulsada una pieza y arrástrala; con un toque se añade al final.
 
-## 🚀 Novedades de la versión 4.1
+## 🚀 Novedades de la versión 4.2
+
+- 🪄 Asistente paso a paso con logo y colores automáticos
+- 📥 Importar productos desde Excel o CSV
+- 🏪 Datos del negocio compartidos por todas las piezas
+- 📅 Agenda con horarios reales, sin reservas dobles, y recordatorios
+- 📊 Panel del dueño en tiempo real, con descarga en CSV
+- 🧾 Recibos en PDF · 🍽️ menú del día editable desde el celular · 🖨️ cartel con QR para el local
+
+### Versión 4.1
 
 - 📐 Sección **Orden** con el orden estándar de una app y nombres técnicos; las piezas se colocan solas en su lugar
 - 🏪 **33 apps básicas** por tipo de negocio y **22 pantallas sueltas**
