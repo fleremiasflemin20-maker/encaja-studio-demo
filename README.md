@@ -1,0 +1,190 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E5BFF,50:E2479A,100:FF9F1C&height=200&section=header&text=Encaja%20Studio&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Arma%20apps%20para%20celular%20como%20un%20rompecabezas&descAlignY=58&descSize=18" width="100%" alt="Encaja Studio"/>
+
+<a href="https://fleremiasflemin20-maker.github.io/encaja-studio-demo/">
+  <img src="https://img.shields.io/badge/🚀_ABRIR_LA_APP-En_vivo-6E5BFF?style=for-the-badge" alt="Abrir Encaja Studio en vivo"/>
+</a>
+&nbsp;
+<a href="#-novedades-de-la-versión-4">
+  <img src="https://img.shields.io/badge/versión-4.0-E2479A?style=for-the-badge" alt="Versión 4.0"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/código-privado-1D1D1F?style=for-the-badge&logo=github" alt="Código privado"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=A99CFF&center=true&vCenter=true&width=820&lines=Arrastra+piezas.+Suelta.+Ya+tienes+una+app.;Tablero+infinito+con+zoom+como+Google+Stitch;IA+que+dise%C3%B1a+pantallas+completas+por+ti;Exporta+a+HTML%2C+React+Native+y+Flutter" alt="Arrastra piezas. Suelta. Ya tienes una app."/>
+
+<br/>
+
+<img src="./assets/hero-3d.svg" width="100%" alt="Tres teléfonos flotando en 3D; el del centro se arma solo, pieza por pieza: barra, banner, productos, botón y pestañas"/>
+
+</div>
+
+<br/>
+
+## ✨ Qué es
+
+**Encaja Studio** es un estudio para diseñar aplicaciones móviles **sin programar**. Eliges piezas listas (botones, barras, tarjetas, carritos, gráficas, chats…), las **arrastras al teléfono** y encajan solas, como un rompecabezas. Cambias el estilo de toda la app con un toque, la pruebas como si estuviera en tu celular y la exportas como código real.
+
+Junta lo mejor de **Google Stitch** (tablero infinito, variantes con IA, flujos de prototipo) y de **Wix Studio** (rejillas, piezas guardadas, colaboración), en una interfaz inspirada en las apps de Apple.
+
+<p align="center">
+  <img src="./capturas/01-tablero.png" width="96%" alt="Tablero infinito con las cuatro pantallas de la app Café Luna conectadas por flechas de flujo, minimapa y barra de IA"/>
+</p>
+
+<div align="center">
+
+| 🧩 **+60 piezas** | 🎨 **13 estilos** | 🖼️ **10 plantillas** | 🔣 **~300 iconos** | 📱 **4 dispositivos** |
+|:---:|:---:|:---:|:---:|:---:|
+| barras, botones, tienda, social, media | Cupertino, Material, Vidrio, Neón, Gamer… | café, tienda, banco, fitness, viajes… | con buscador en español | iPhone, Mini, Android, Tablet |
+
+</div>
+
+## 🗺️ El tablero
+
+Todas las pantallas a la vista, como en Stitch. Muévete por un lienzo infinito, haz zoom, reordena las pantallas y mira el **flujo** de tu app con flechas que muestran qué botón lleva a dónde.
+
+<table>
+<tr>
+<td width="50%"><img src="./capturas/05-tienda.png" alt="Tablero de la tienda Nova Moda con cuatro pantallas"/></td>
+<td width="50%"><img src="./capturas/08-ia.png" alt="Tres variantes de una pantalla generadas con IA debajo del original"/></td>
+</tr>
+<tr>
+<td><b>Flujo de prototipo</b><br/>flechas entre pantallas, minimapa, notas adhesivas y ▶ probar desde cualquier pantalla</td>
+<td><b>✨ Variantes con IA</b><br/>tres versiones distintas de una pantalla, lado a lado; eliges la que te gusta</td>
+</tr>
+</table>
+
+| Gesto | Qué hace |
+|---|---|
+| Arrastrar el fondo | Moverte por el tablero |
+| `Ctrl` + rueda · pellizcar | Zoom |
+| Arrastrar el nombre de una pantalla | Moverla |
+| `Mayús` + `1` · `0` · `F` | Ver todo · 100 % · centrar la pantalla activa |
+
+## 🧠 Inteligencia artificial
+
+- **Crear con IA:** describes la app (*"reservar canchas de fútbol"*) y la arma con piezas reales, que luego editas a mano.
+- **De boceto a app:** sube una foto de tu dibujo o una captura y la IA copia el diseño.
+- **Siguiente pantalla:** la IA diseña la pantalla que sigue y la conecta a un botón.
+- **Pídele un cambio:** *"hazla oscura"*, *"agrega un carrusel"*… y lo aplica.
+
+> La IA, la nube y la colaboración funcionan dentro de Claude, con la cuenta de cada persona. En la demo pública todo lo demás funciona y se guarda en tu navegador.
+
+## 🛠️ Edición profesional
+
+<table>
+<tr>
+<td width="62%"><img src="./capturas/02-editor.png" alt="Editor con un banner seleccionado y el inspector abierto"/></td>
+<td width="38%">
+
+- **Filas y rejillas** para poner piezas lado a lado
+- **Inspector** por secciones: contenido, acción, apariencia y ajustes finos
+- **Ajustes finos:** márgenes, relleno, escala, opacidad, sombra, esquinas y fondo con foto
+- **Capas**, selección múltiple, copiar y pegar entre pantallas
+- **Mis piezas:** guarda bloques propios y reúsalos
+- **Animaciones** de entrada por pieza
+- Deshacer y rehacer ilimitado
+
+</td>
+</tr>
+</table>
+
+## ⚡ Datos que funcionan de verdad
+
+Las apps no son dibujos: el **carrito suma precios**, las **tareas se marcan y se guardan**, los **formularios guardan lo que escribes**, el **menú lateral** y las **ventanas emergentes** se abren, y la **bienvenida** avanza paso a paso. Todo eso también funciona en el código exportado.
+
+<p align="center">
+  <img src="./capturas/07-fitness.png" width="96%" alt="Modo prueba de la app de fitness Pulso con anillo de progreso y gráfica"/>
+</p>
+
+## 📦 Exporta código real
+
+<table>
+<tr>
+<td width="55%"><img src="./capturas/04-exportar.png" alt="Ventana de exportación mostrando código Flutter"/></td>
+<td width="45%">
+
+| Formato | Para qué |
+|---|---|
+| 🌐 **HTML** | Abrir en cualquier celular o subir a un hosting |
+| ⚛️ **React Native** | Proyecto Expo, listo para App Store y Play Store |
+| 💙 **Flutter** | Android e iOS con Material 3 |
+| 📐 **DESIGN.md** | Guía de diseño para programadores o para otra IA |
+| 🗜️ **.zip** | Todo junto, con instrucciones |
+
+</td>
+</tr>
+</table>
+
+## 🖼️ Plantillas
+
+<p align="center">
+  <img src="./capturas/03-plantillas.png" width="96%" alt="Galería con 10 plantillas: Café Luna, Nova Moda, Pulso, Eco, Clara, Ola, Salud+, Rumbo, Listo y Nivel 99"/>
+</p>
+
+## 🔄 Cómo funciona
+
+```mermaid
+flowchart LR
+    A["🧩 Biblioteca<br/>+60 piezas"] -->|arrastrar| B["📱 Pantalla"]
+    I["✨ IA<br/>texto o boceto"] -->|genera| B
+    B --> T["🗺️ Tablero<br/>flujo y variantes"]
+    T --> P["▶ Probar<br/>datos reales"]
+    P --> E{"📦 Exportar"}
+    E --> H["🌐 HTML"]
+    E --> R["⚛️ React Native"]
+    E --> F["💙 Flutter"]
+    T --> N["☁️ Nube<br/>versiones · QR · colaboración"]
+```
+
+## 📱 También en el celular
+
+<p align="center">
+  <img src="./capturas/06-movil.png" width="300" alt="Encaja Studio en un celular, con la biblioteca de piezas arriba y el teléfono debajo"/>
+</p>
+
+Mantén pulsada una pieza y arrástrala; con un toque se añade al final.
+
+## 🚀 Novedades de la versión 4
+
+- 🗺️ **Tablero infinito** con zoom, pantallas que se mueven, flechas de flujo, minimapa y notas
+- ✨ **Variantes**, **siguiente pantalla** y **cambios por texto** con IA
+- 🔲 **Rejillas** de 2 y 3 columnas
+- 📐 Exportación de **DESIGN.md**
+
+<details>
+<summary><b>Versiones anteriores</b></summary>
+
+- **3.0** · IA, nube con historial, QR para el celular, colaboración en vivo, filas, datos reales, ~300 iconos, React Native y Flutter
+- **2.0** · interfaz estilo Apple, 13 estilos, 16 paletas, 9 plantillas, animaciones
+- **1.0** · arrastrar y soltar, 6 estilos, exportar HTML
+
+</details>
+
+## 🧭 Próximamente
+
+- [ ] Paleta de comandos (`Ctrl` + `K`)
+- [ ] Colecciones de datos que llenan listas y tarjetas
+- [ ] Publicar la app en internet con un clic
+- [ ] Revisión automática de contraste y botones sin destino
+- [ ] Capturas para App Store y Play Store
+
+## 🔒 Licencia
+
+**© 2026 Fleremiasflemin. Todos los derechos reservados.**
+El código fuente de Encaja Studio es privado. Este repositorio solo publica la demo y su documentación; puedes usar la app desde el enlace, pero no copiar, modificar ni redistribuir su código. Más detalles en [LICENSE](./LICENSE).
+
+<div align="center">
+
+<br/>
+
+<a href="https://fleremiasflemin20-maker.github.io/encaja-studio-demo/">
+  <img src="https://img.shields.io/badge/🧩_Pruébalo_ahora-fleremiasflemin20--maker.github.io-6E5BFF?style=for-the-badge" alt="Pruébalo ahora"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9F1C,50:E2479A,100:6E5BFF&height=120&section=footer" width="100%" alt=""/>
+
+</div>
