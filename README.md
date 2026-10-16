@@ -6,15 +6,15 @@
   <img src="https://img.shields.io/badge/🚀_ABRIR_LA_APP-En_vivo-6E5BFF?style=for-the-badge" alt="Abrir Encaja Studio en vivo"/>
 </a>
 &nbsp;
-<a href="#-novedades-de-la-versión-4">
-  <img src="https://img.shields.io/badge/versión-4.0-E2479A?style=for-the-badge" alt="Versión 4.0"/>
+<a href="#-novedades-de-la-versión-41">
+  <img src="https://img.shields.io/badge/versión-4.1-E2479A?style=for-the-badge" alt="Versión 4.0"/>
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/código-privado-1D1D1F?style=for-the-badge&logo=github" alt="Código privado"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=A99CFF&center=true&vCenter=true&width=820&lines=Arrastra+piezas.+Suelta.+Ya+tienes+una+app.;Tablero+infinito+con+zoom+como+Google+Stitch;IA+que+dise%C3%B1a+pantallas+completas+por+ti;Exporta+a+HTML%2C+React+Native+y+Flutter" alt="Arrastra piezas. Suelta. Ya tienes una app."/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=A99CFF&center=true&vCenter=true&width=820&lines=Arrastra+piezas.+Suelta.+Ya+tienes+una+app.;33+apps+b%C3%A1sicas%3A+tienda%2C+citas%2C+taxi%2C+banco%2C+delivery%E2%80%A6;Tablero+infinito+con+zoom+como+Google+Stitch;IA+que+dise%C3%B1a+pantallas+completas+por+ti;Exporta+a+HTML%2C+React+Native+y+Flutter" alt="Arrastra piezas. Suelta. Ya tienes una app."/>
 
 <br/>
 
@@ -36,11 +36,82 @@ Junta lo mejor de **Google Stitch** (tablero infinito, variantes con IA, flujos 
 
 <div align="center">
 
-| 🧩 **+60 piezas** | 🎨 **13 estilos** | 🖼️ **10 plantillas** | 🔣 **~300 iconos** | 📱 **4 dispositivos** |
+| 🧩 **+70 piezas** | 🏪 **33 apps básicas** | 📄 **22 pantallas tipo** | 🎨 **13 estilos** | 🔣 **~300 iconos** |
 |:---:|:---:|:---:|:---:|:---:|
-| barras, botones, tienda, social, media | Cupertino, Material, Vidrio, Neón, Gamer… | café, tienda, banco, fitness, viajes… | con buscador en español | iPhone, Mini, Android, Tablet |
+| con su nombre técnico | una por tipo de negocio | login, carrito, pago, perfil… | Cupertino, Material, Vidrio, Neón… | con buscador en español |
 
 </div>
+
+## 📐 El orden de una app, explicado
+
+¿No sabes qué va primero? La sección **Orden** muestra las piezas en el orden estándar de cualquier app móvil, de arriba hacia abajo, siguiendo las guías de **Material Design 3** (Google) y **Human Interface Guidelines** (Apple). Cada pieza tiene su nombre en español, su **nombre técnico** y para qué sirve. Al tocarla, **se coloca sola en su lugar**.
+
+<table>
+<tr>
+<td width="30%"><img src="./capturas/11-orden.png" alt="Sección Orden en el celular, con las piezas numeradas y su nombre técnico"/></td>
+<td>
+
+| # | Pieza | Nombre técnico | Zona |
+|:-:|---|---|---|
+| 0 | Barra de estado | `Status Bar` | la pone el teléfono |
+| 1 | Barra superior | `App Bar · Top Bar` | ⬆️ arriba |
+| 2 | Buscador | `Search Bar` | 📄 contenido |
+| 3 | Selector de vista | `Segmented Control` | 📄 contenido |
+| 4 | Banner principal | `Hero Banner` | 📄 contenido |
+| 5 | Filtros | `Chips` | 📄 contenido |
+| 6 | Título de sección | `Section Header` | 📄 contenido |
+| 7 | Carrusel · Cuadrícula · Tarjetas | `Carousel · Grid · Card` | 📄 contenido |
+| 8 | Lista | `List` | 📄 contenido |
+| 9 | Campos de texto | `Text Field` | 📄 contenido |
+| 10 | Botón principal | `Primary Button · CTA` | 📄 contenido |
+| 11 | Botón flotante | `FAB` | 🎈 flotante |
+| 12 | Barra de pestañas | `Tab Bar · Bottom Navigation` | ⬇️ abajo |
+| — | Menú lateral · Ventana · Aviso | `Drawer · Modal · Toast` | 🪟 encima |
+
+</td>
+</tr>
+</table>
+
+Al pasar el cursor sobre cualquier pieza del teléfono aparece su nombre técnico, y también se ve en el inspector y en las capas. Así aprendes el vocabulario que usan diseñadores y programadores.
+
+## 🏪 33 apps básicas, una para cada negocio
+
+Elige tu tipo de app y empieza con la estructura correcta: pantallas en orden, navegación conectada y textos de ejemplo listos para cambiar.
+
+<p align="center">
+  <img src="./capturas/09-apps-basicas.png" width="96%" alt="Galería de apps básicas agrupadas por tipo de negocio"/>
+</p>
+
+| Grupo | Apps |
+|---|---|
+| 🛍️ **Comercio** | Tienda en línea · Delivery de comida · Restaurante o cafetería · Supermercado · Catálogo con pedido por WhatsApp · Farmacia |
+| 🧰 **Servicios** | Reservas y citas · Barbería o salón · Servicios a domicilio · Taller mecánico · Veterinaria · Turnos y atención al cliente |
+| 🩺 **Salud y bienestar** | Clínica y doctores · Gimnasio |
+| 💳 **Finanzas** | Banco o billetera · Control de gastos |
+| 💬 **Social** | Red social · Mensajería · Comunidad o iglesia · Donaciones / ONG |
+| 🎓 **Educación** | Cursos en línea · Colegio o escuela |
+| 🚕 **Movilidad y viajes** | Transporte tipo taxi · Hoteles y viajes · Inmobiliaria |
+| 🎟️ **Entretenimiento** | Eventos y boletos · Música o podcast · Noticias o blog · Juego de preguntas |
+| ✅ **Productividad** | Tareas y proyectos · Formulario y encuesta · Inventario de negocio |
+| 👤 **Personal** | Portafolio o tarjeta digital |
+
+Y **22 pantallas sueltas** para agregar a cualquier app: *Login, Sign Up, Onboarding, Home, Product Listing, Product Detail, Cart, Checkout, Success, Profile, Settings, Chat, Search, Notifications, Location, Booking, Form, Dashboard, Empty State, Help, Loyalty y Virtual Queue*.
+
+## 🧰 Piezas para el día a día de un negocio
+
+| Pieza | Qué resuelve |
+|---|---|
+| 💬 **WhatsApp y contacto** | Botones para escribir por WhatsApp con un mensaje listo, llamar o enviar un correo |
+| 🛒 **Pedido por WhatsApp** | El carrito arma el pedido con productos y total, y lo envía a tu WhatsApp |
+| 🕒 **Horario de atención** | Días, horas, dirección y «Abierto ahora» |
+| 🏷️ **Cupón** | Código de descuento que se copia con un toque |
+| ☕ **Tarjeta de sellos** | Fidelidad tipo «el 10.º café es gratis» |
+| 🎫 **Fila virtual** | El cliente toma turno desde el celular y ve cuántas personas faltan |
+| 😍 **Encuesta de satisfacción** | Caritas del 1 al 5 que se guardan en la lista de datos |
+
+<p align="center">
+  <img src="./capturas/10-negocio.png" width="96%" alt="Tablero de la app básica de restaurante con menú, reservas, ubicación y confirmación"/>
+</p>
 
 ## 🗺️ El tablero
 
@@ -148,7 +219,14 @@ flowchart LR
 
 Mantén pulsada una pieza y arrástrala; con un toque se añade al final.
 
-## 🚀 Novedades de la versión 4
+## 🚀 Novedades de la versión 4.1
+
+- 📐 Sección **Orden** con el orden estándar de una app y nombres técnicos; las piezas se colocan solas en su lugar
+- 🏪 **33 apps básicas** por tipo de negocio y **22 pantallas sueltas**
+- 🧰 Piezas para negocios: WhatsApp, pedido por WhatsApp, horario, cupón, sellos, fila virtual y encuesta
+- 🏷️ Nombre técnico de cada pieza al pasar el cursor, en el inspector y en las capas
+
+### Versión 4.0
 
 - 🗺️ **Tablero infinito** con zoom, pantallas que se mueven, flechas de flujo, minimapa y notas
 - ✨ **Variantes**, **siguiente pantalla** y **cambios por texto** con IA
