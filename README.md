@@ -283,6 +283,21 @@ Herramientas para diseñadores y programadores. Aquí no te quedas con lo que ge
 
 <p align="center"><img src="./capturas/18-encaja-code.png" width="96%" alt="Encaja Code: terminal con el HTML de la pieza resaltado, comandos y el cambio aplicado en el teléfono en tiempo real"/></p>
 
+**Encaja Code 2** — una terminal completa para construir a tu manera:
+
+- 🧱 **Elementos**: títulos, textos, botones, botón de WhatsApp, tarjetas, listas, dos columnas, insignias, enlaces, mapas, separadores y espacios, que se escriben solos donde está el cursor.
+- ✨ **Iconos**: busca entre unos 300 iconos (también en español: «casa», «carrito») y elige su tamaño.
+- 🖼️ **Imágenes**: arrastra tus fotos o elígelas de tu equipo, pega un enlace o busca **fotos gratis de internet** (Openverse, uso comercial, con su crédito cuando la licencia lo pide). Tus fotos quedan guardadas en el proyecto y el código las nombra como `encaja:foto-1`.
+- 🎛️ **Visual**: elige cualquier parte de la pieza en un árbol y cambia su texto, color, fondo, letra, grosor, alineación, relleno, esquinas, sombra, borde, opacidad, ancho y márgenes; súbela, bájala, duplícala o bórrala.
+- La terminal se acomoda al lado del teléfono para que veas cada cambio en vivo, y se puede agrandar o mover.
+
+<table>
+<tr>
+<td width="50%"><img src="./capturas/19-code-imagenes.png" alt="Encaja Code con fotos gratis de internet, subida de archivos y el HTML de la pieza"/></td>
+<td width="50%"><img src="./capturas/20-code-visual.png" alt="Encaja Code con el panel visual cambiando el color y el tamaño del título en vivo"/></td>
+</tr>
+</table>
+
 ## 🚀 Novedades de la versión 4.2
 
 - 🪄 Asistente paso a paso con logo y colores automáticos
