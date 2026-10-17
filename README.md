@@ -267,6 +267,7 @@ Herramientas para diseñadores y programadores. Aquí no te quedas con lo que ge
 | ◐ | **Estados de pantalla** | Mira cada pantalla **cargando** (esqueleto automático), **vacía**, con **error** o **sin conexión**, y conviértelas en pantallas editables. |
 | ⌘ | **Paleta de comandos** | `Ctrl` + `K`: cualquier acción, pieza, pantalla o plantilla al instante. |
 | 🧩 | **CSS y HTML propios** | CSS para toda la app o para cada pieza (con anidado `& button{…}`) y una pieza de **Código HTML** saneada para incrustar lo que quieras. |
+| ⌨️ | **Encaja Code** | Toca cualquier pieza y pulsa **«Cambiar código»**: se abre una terminal propia con HTML, CSS y datos de la pieza, resaltado de sintaxis y comandos (`color`, `radio`, `sombra`, `vidrio`, `texto`…). Lo que escribes aparece en el teléfono **en tiempo real**, y los comandos se escriben solos para que veas cómo se crea el código. Dentro de Claude, además, `ia <pedido>` reescribe la pieza. |
 | 📐 | **Especificación** | Un documento HTML para el programador: colores con contraste, tipografía, cada pantalla con sus piezas, destinos y lista de entrega. |
 
 <table>
@@ -279,6 +280,8 @@ Herramientas para diseñadores y programadores. Aquí no te quedas con lo que ge
 <td width="50%"><img src="./capturas/17-comandos.png" alt="Paleta de comandos buscando la pieza carrito"/></td>
 </tr>
 </table>
+
+<p align="center"><img src="./capturas/18-encaja-code.png" width="96%" alt="Encaja Code: terminal con el HTML de la pieza resaltado, comandos y el cambio aplicado en el teléfono en tiempo real"/></p>
 
 ## 🚀 Novedades de la versión 4.2
 
