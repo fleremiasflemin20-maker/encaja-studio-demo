@@ -254,6 +254,32 @@ flowchart LR
 
 Mantén pulsada una pieza y arrástrala; con un toque se añade al final.
 
+## 🛠️ Novedades de la versión 4.4 · Encaja Pro
+
+Herramientas para diseñadores y programadores. Aquí no te quedas con lo que genera una máquina: cada pieza se mide, se ajusta y se lleva a código limpio.
+
+| | Herramienta | Qué resuelve |
+|:---:|---|---|
+| `</>` | **Modo Dev** | Medidas, relleno, márgenes, esquinas, letra y contraste de cada pieza. Pasa el ratón por otra pieza y ves la distancia entre las dos. Código de la pieza en HTML, CSS, Tailwind y JSON. |
+| 🎨 | **Tokens de diseño** | Tu marca como código en formato estándar **DTCG 2025.10**, CSS, **Tailwind v4**, React Native, Flutter y SwiftUI. También **importa** los tokens de tu sistema de diseño. |
+| ✅ | **Revisión de calidad** | Contraste **WCAG 2.2**, áreas para tocar de 44 px, botones sin destino, pantallas a las que no se llega y textos vacíos. Puntaje de 0 a 100 y **arreglos con un clic** que conservan el color de tu marca. |
+| 🧪 | **Laboratorio** | La pantalla en 5 tamaños a la vez (320 px a tablet), con **letra grande**, **modo oscuro** y simulación de **daltonismo**. |
+| ◐ | **Estados de pantalla** | Mira cada pantalla **cargando** (esqueleto automático), **vacía**, con **error** o **sin conexión**, y conviértelas en pantallas editables. |
+| ⌘ | **Paleta de comandos** | `Ctrl` + `K`: cualquier acción, pieza, pantalla o plantilla al instante. |
+| 🧩 | **CSS y HTML propios** | CSS para toda la app o para cada pieza (con anidado `& button{…}`) y una pieza de **Código HTML** saneada para incrustar lo que quieras. |
+| 📐 | **Especificación** | Un documento HTML para el programador: colores con contraste, tipografía, cada pantalla con sus piezas, destinos y lista de entrega. |
+
+<table>
+<tr>
+<td width="50%"><img src="./capturas/14-modo-dev.png" alt="Modo Dev con medidas, distancia entre piezas y código de la pieza seleccionada"/></td>
+<td width="50%"><img src="./capturas/15-revision.png" alt="Revisión de calidad con puntaje y problemas de contraste y tamaño"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="./capturas/16-laboratorio.png" alt="Laboratorio con la pantalla en tres tamaños, letra grande y simulación de daltonismo"/></td>
+<td width="50%"><img src="./capturas/17-comandos.png" alt="Paleta de comandos buscando la pieza carrito"/></td>
+</tr>
+</table>
+
 ## 🚀 Novedades de la versión 4.2
 
 - 🪄 Asistente paso a paso con logo y colores automáticos
@@ -288,10 +314,10 @@ Mantén pulsada una pieza y arrástrala; con un toque se añade al final.
 
 ## 🧭 Próximamente
 
-- [ ] Paleta de comandos (`Ctrl` + `K`)
+- [x] Paleta de comandos (`Ctrl` + `K`)
 - [ ] Colecciones de datos que llenan listas y tarjetas
 - [x] Publicar la app en internet con un clic → [encaja.analista-datos-pro.workers.dev](https://encaja.analista-datos-pro.workers.dev)
-- [ ] Revisión automática de contraste y botones sin destino
+- [x] Revisión automática de contraste y botones sin destino
 - [ ] Capturas para App Store y Play Store
 
 ## 👤 Creador
