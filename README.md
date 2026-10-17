@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=A99CFF&center=true&vCenter=true&width=820&lines=Arrastra+piezas.+Suelta.+Ya+tienes+una+app.;Tu+negocio+con+app+propia+en+2+minutos;33+apps+b%C3%A1sicas%3A+tienda%2C+citas%2C+taxi%2C+banco%2C+delivery%E2%80%A6;Tablero+infinito+con+zoom+como+Google+Stitch;IA+que+dise%C3%B1a+pantallas+completas+por+ti;Exporta+a+HTML%2C+React+Native+y+Flutter" alt="Arrastra piezas. Suelta. Ya tienes una app."/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1100&color=A99CFF&center=true&vCenter=true&width=820&lines=Arrastra+piezas.+Suelta.+Ya+tienes+una+app.;Tu+negocio+con+app+propia+en+2+minutos;33+apps+b%C3%A1sicas%3A+tienda%2C+citas%2C+taxi%2C+banco%2C+delivery%E2%80%A6;Tablero+infinito+con+zoom+y+flujos;IA+que+dise%C3%B1a+pantallas+completas+por+ti;Exporta+a+HTML%2C+React+Native+y+Flutter" alt="Arrastra piezas. Suelta. Ya tienes una app."/>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 **Encaja Studio** es un estudio para diseñar aplicaciones móviles **sin programar**. Eliges piezas listas (botones, barras, tarjetas, carritos, gráficas, chats…), las **arrastras al teléfono** y encajan solas, como un rompecabezas. Cambias el estilo de toda la app con un toque, la pruebas como si estuviera en tu celular y la exportas como código real.
 
-Junta lo mejor de **Google Stitch** (tablero infinito, variantes con IA, flujos de prototipo) y de **Wix Studio** (rejillas, piezas guardadas, colaboración), en una interfaz inspirada en las apps de Apple.
+Es una idea original, pensada para que cualquier dueño de negocio arme su app solo: tablero infinito, variantes con IA, flujos de prototipo, rejillas, piezas guardadas y colaboración, todo en una interfaz limpia y cuidada al detalle.
 
 <p align="center">
   <img src="./capturas/01-tablero.png" width="96%" alt="Tablero infinito con las cuatro pantallas de la app Café Luna conectadas por flechas de flujo, minimapa y barra de IA"/>
@@ -150,7 +150,7 @@ Y **22 pantallas sueltas** para agregar a cualquier app: *Login, Sign Up, Onboar
 
 ## 🗺️ El tablero
 
-Todas las pantallas a la vista, como en Stitch. Muévete por un lienzo infinito, haz zoom, reordena las pantallas y mira el **flujo** de tu app con flechas que muestran qué botón lleva a dónde.
+Todas las pantallas a la vista. Muévete por un lienzo infinito, haz zoom, reordena las pantallas y mira el **flujo** de tu app con flechas que muestran qué botón lleva a dónde.
 
 <table>
 <tr>
@@ -290,9 +290,13 @@ Mantén pulsada una pieza y arrástrala; con un toque se añade al final.
 
 - [ ] Paleta de comandos (`Ctrl` + `K`)
 - [ ] Colecciones de datos que llenan listas y tarjetas
-- [ ] Publicar la app en internet con un clic
+- [x] Publicar la app en internet con un clic → [encaja.analista-datos-pro.workers.dev](https://encaja.analista-datos-pro.workers.dev)
 - [ ] Revisión automática de contraste y botones sin destino
 - [ ] Capturas para App Store y Play Store
+
+## 👤 Creador
+
+**Encaja Studio es una idea original de [@fleremiasflemin20-maker](https://github.com/fleremiasflemin20-maker)**, que lo concibió, diseñó y desarrolló de principio a fin: el concepto de armar apps como un rompecabezas, las piezas, las plantillas por tipo de negocio, el panel del dueño y la plataforma para publicar.
 
 ## 🔒 Licencia
 
