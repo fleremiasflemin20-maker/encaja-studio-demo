@@ -24,6 +24,8 @@
 
 <br/>
 
+<p align="center"><a href="https://encaja.analista-datos-pro.workers.dev/#video"><b>▶ Mira el tutorial de 2 minutos</b></a> · <a href="https://encaja.analista-datos-pro.workers.dev">Pruébalo en línea</a></p>
+
 ## ✨ Qué es
 
 **Encaja Studio** es un estudio para diseñar aplicaciones móviles **sin programar**. Eliges piezas listas (botones, barras, tarjetas, carritos, gráficas, chats…), las **arrastras al teléfono** y encajan solas, como un rompecabezas. Cambias el estilo de toda la app con un toque, la pruebas como si estuviera en tu celular y la exportas como código real.
