@@ -38,7 +38,7 @@ Es una idea original, pensada para que cualquier dueño de negocio arme su app s
 
 <div align="center">
 
-| 🧩 **+70 piezas** | 🏪 **33 apps básicas** | 📄 **22 pantallas tipo** | 🎨 **13 estilos** | 🔣 **~300 iconos** |
+| 🧩 **+80 piezas** | 🏪 **33 apps básicas** | 📄 **22 pantallas tipo** | 🎨 **21 estilos** | 🔣 **~300 iconos** |
 |:---:|:---:|:---:|:---:|:---:|
 | con su nombre técnico | una por tipo de negocio | login, carrito, pago, perfil… | Cupertino, Material, Vidrio, Neón… | con buscador en español |
 
@@ -237,7 +237,7 @@ Las apps no son dibujos: el **carrito suma precios**, las **tareas se marcan y s
 
 ```mermaid
 flowchart LR
-    A["🧩 Biblioteca<br/>+60 piezas"] -->|arrastrar| B["📱 Pantalla"]
+    A["🧩 Biblioteca<br/>+80 piezas"] -->|arrastrar| B["📱 Pantalla"]
     I["✨ IA<br/>texto o boceto"] -->|genera| B
     B --> T["🗺️ Tablero<br/>flujo y variantes"]
     T --> P["▶ Probar<br/>datos reales"]
@@ -255,6 +255,36 @@ flowchart LR
 </p>
 
 Mantén pulsada una pieza y arrástrala; con un toque se añade al final.
+
+## 🎨 Novedades de la versión 4.5 · Biblioteca Pro
+
+Una biblioteca completa para crear apps con nivel de estudio de diseño, sin cambiar nada de lo que ya funcionaba.
+
+**8 estilos nuevos (21 en total):** Cristal (vidrio translúcido al estilo iOS 26, con barra de pestañas flotante), Expresivo (formas y colores intensos al estilo Material 3), Bento, Suizo (minimalismo tipográfico), Pastel, Marfil (elegancia clara con letra con serifa), Fintech (oscuro con números tabulares) y Arcilla (relieve suave).
+
+**Color profesional:** escala tonal de 11 tonos (50–950) calculada en OKLCH para que el brillo se vea parejo, colores de estado (éxito, aviso, error, información), 18 colores y 16 paletas más, y fondo degradado de malla. La escala y los colores de estado salen en los tokens (DTCG, CSS y Tailwind v4).
+
+**Botones:** tipos tonal, elevado, cristal y brillo animado; tamaños de XS a XL; estados «cargando» y «desactivado»; grupo de botones, botón dividido con menú y botones para entrar con Apple, Google, WhatsApp o correo.
+
+**22 piezas nuevas (categoría «UI Pro»):** hoja inferior, estado vacío, esqueleto de carga, indicador de carga con forma animada, notificaciones, ajustes agrupados con interruptores, calendario del mes, indicador KPI con tendencia, cuadrícula bento, gráfica de dona, tabla de precios, método de pago, seguimiento de pedido, cuenta regresiva en vivo, boleto con código, grupo de avatares, barra flotante, opiniones deslizables y barra de mensaje.
+
+**Herramientas de diseño:**
+- *Auto layout* en filas: dirección horizontal o vertical, pasar a otra línea si no cabe, y relleno interior.
+- *Componentes maestros*: las piezas guardadas en «Mis piezas» recuerdan sus copias; cambia una y actualiza todas con un toque.
+- *Modos del tema*: guarda combinaciones (claro, oscuro, otra marca) y alterna entre ellas.
+- *Guías*: grilla de 8 pt, 4 columnas y márgenes seguros sobre el teléfono.
+- *Capas*: ocultar, bloquear y renombrar cada pieza.
+
+**Movimiento:** transiciones entre pantallas (deslizar, fundido, zoom, hoja desde abajo), microinteracciones al tocar, piezas que aparecen al hacer scroll y tres animaciones nuevas (desenfoque, girar, rebote suave).
+
+**Presentación:** exporta cada pantalla dentro de un marco de celular, en 1080×1350, lista para redes o para mostrarle al cliente.
+
+<table>
+<tr>
+<td width="62%"><img src="./capturas/22-ui-pro.png" alt="Categoría UI Pro con las piezas nuevas y un indicador KPI agregado al teléfono"/></td>
+<td width="38%"><img src="./capturas/21-presentacion.png" alt="Pantalla de la app dentro de un marco de celular lista para redes"/></td>
+</tr>
+</table>
 
 ## 🛠️ Novedades de la versión 4.4 · Encaja Pro
 
