@@ -24,7 +24,7 @@
 
 <br/>
 
-<p align="center"><a href="https://encaja.analista-datos-pro.workers.dev/#video"><b>▶ Mira el tutorial de 2 minutos</b></a> · <a href="https://encaja.analista-datos-pro.workers.dev">Pruébalo en línea</a></p>
+<p align="center"><a href="https://encajalab.com/#video"><b>▶ Mira el tutorial de 2 minutos</b></a> · <a href="https://encajalab.com">Pruébalo en línea</a></p>
 
 ## ✨ Qué es
 
@@ -366,7 +366,7 @@ Herramientas para diseñadores y programadores. Aquí no te quedas con lo que ge
 
 - [x] Paleta de comandos (`Ctrl` + `K`)
 - [ ] Colecciones de datos que llenan listas y tarjetas
-- [x] Publicar la app en internet con un clic → [encaja.analista-datos-pro.workers.dev](https://encaja.analista-datos-pro.workers.dev)
+- [x] Publicar la app en internet con un clic → [encajalab.com](https://encajalab.com)
 - [x] Revisión automática de contraste y botones sin destino
 - [ ] Capturas para App Store y Play Store
 
